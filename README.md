@@ -1,1 +1,1 @@
-# czasik-strona-do-rezerwacji-termin-w
+Czasik strona do rezerwacji terminów
